@@ -70,6 +70,10 @@
 
 # 🚀 快速开始
 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rAZrti4Rn-U?si=PlrWuIHROFCTlVzI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
 快速开始详细文档：[项目搭建文档](https://docs.link-ai.tech/cow/quick-start)
 
 ## 一、准备
